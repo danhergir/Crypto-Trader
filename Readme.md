@@ -21,7 +21,6 @@ The purpose of this project is to demonstrate my skills using Kotlin and demonst
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Platzi Kotlin Course](https://platzi.com/cursos/kotlin/)
 * [Using Object & Strings](https://grokonez.com/kotlin/kotin-tostring-convert-object-string)
 
