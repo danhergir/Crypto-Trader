@@ -8,7 +8,7 @@ This Android app allows to simulate a trade app when the user is going to be abl
 The purpose of this project is to demonstrate my skills using Kotlin and demonstrating my understanding using Firebase.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zGwo_O1ZGmI)
 
 # Development Environment
 
